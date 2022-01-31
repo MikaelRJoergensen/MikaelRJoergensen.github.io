@@ -2,10 +2,8 @@
 
 ---
 
-### Category Name 1 
-
 [Project 1 Title](https://github.com/MikaelRJoergensen/The_Guardian_articles)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/The guardian graph.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
